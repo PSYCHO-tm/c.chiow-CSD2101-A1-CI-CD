@@ -1,0 +1,7 @@
+build/
+   build_ci/
+   .vs/
+   *.ipch
+   *.obj
+   *.pdb
+   out/

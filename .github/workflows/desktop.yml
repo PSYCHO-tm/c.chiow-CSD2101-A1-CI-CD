@@ -11,11 +11,11 @@ jobs:
     name: "Desktop • ${{ matrix.name }} • ${{ matrix.os }}"
     runs-on: ${{ matrix.os }}
     strategy:
-      fail-fast: false
-      matrix:
-          - { project: Chapter2/2-OpenGLES3_Primitives-Modern, name: 2-OpenGLES3_Primitives-Modern, os: ubuntu-latest  }
-          - { project: Chapter2/2-OpenGLES3_Primitives-Modern, name: 2-OpenGLES3_Primitives-Modern, os: windows-latest }
-
+          fail-fast: false
+          matrix:
+            include:
+              - { project: Chapter2/2-OpenGLES3_Primitives-Modern, name: 2-OpenGLES3_Primitives-Modern, os: ubuntu-latest  }
+              - { project: Chapter2/2-OpenGLES3_Primitives-Modern, name: 2-OpenGLES3_Primitives-Modern, os: windows-latest }             
     steps:
       - uses: actions/checkout@v4
 
