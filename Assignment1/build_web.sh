@@ -22,9 +22,9 @@ mkdir -p web
 # --- GLFW backend (default) -------------------------------------------------
 emcc -std=c++17 \
     Scene/main.cpp \
-    Scene/Triangle.cpp \
-    Scene/Square.cpp \
     Scene/Renderer.cpp \
+    Scene/Square.cpp \
+    Scene/Triangle.cpp \
     -IScene \
     -DUSE_GLFW \
     -s USE_GLFW=3 \
@@ -37,6 +37,8 @@ emcc -std=c++17 \
 # To use SDL2 instead, comment out the GLFW block above and uncomment below:
 # emcc -std=c++17 \
 #     Scene/main.cpp \
+#     Scene/Renderer.cpp \
+#     Scene/Square.cpp \
 #     Scene/Triangle.cpp \
 #     -IScene \
 #     -s USE_SDL=2 \
