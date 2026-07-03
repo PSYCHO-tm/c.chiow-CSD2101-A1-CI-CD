@@ -32,6 +32,7 @@ emcc -std=c++17 \
     -s FULL_ES3=1 \
     -s WASM=1 \
     -s ALLOW_MEMORY_GROWTH=1 \
+    --preload-file assets@assets \
     -o web/index.html
 # --- SDL2 backend (opt-in) --------------------------------------------------
 # To use SDL2 instead, comment out the GLFW block above and uncomment below:
