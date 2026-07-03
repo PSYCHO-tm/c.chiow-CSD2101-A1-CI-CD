@@ -1,0 +1,14 @@
+# Target labels
+ glew-populate
+# Source files and their labels
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/glew-populate
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/5081753cadbc75028a65527d85564993/glew-populate.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/107a9b689d2078633465243acc8fdc4c/glew-populate-complete.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-build.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-configure.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-download.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-install.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-mkdir.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-patch.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-test.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/CMakeFiles/3e02902129574cd7013d7eb973a9d611/glew-populate-update.rule

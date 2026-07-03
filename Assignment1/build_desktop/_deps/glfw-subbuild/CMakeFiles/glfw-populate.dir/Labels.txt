@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/92c70335b945b5098eccb686ffe39146/glfw-populate.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/7ec288d1ce87623d31278218552d6373/glfw-populate-complete.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-build.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-configure.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-download.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-install.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-mkdir.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-patch.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-test.rule
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/83dd41a30507cb2f16b2e933ed089e6b/glfw-populate-update.rule

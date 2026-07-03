@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-src\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-src\build\glew.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74400EEB-345F-39E7-BFF7-9A92320F88B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

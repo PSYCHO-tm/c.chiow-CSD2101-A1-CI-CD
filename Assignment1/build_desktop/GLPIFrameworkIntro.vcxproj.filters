@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\Scene\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\Scene\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74400EEB-345F-39E7-BFF7-9A92320F88B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

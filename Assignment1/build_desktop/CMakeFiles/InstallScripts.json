@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/cmake_install.cmake",
+		"C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

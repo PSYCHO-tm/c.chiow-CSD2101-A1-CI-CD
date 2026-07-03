@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\5081753CADBC75028A65527D85564993\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild -BC:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-subbuild/glew-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

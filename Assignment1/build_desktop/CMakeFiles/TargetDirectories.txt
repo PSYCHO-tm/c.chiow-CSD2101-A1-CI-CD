@@ -1,0 +1,13 @@
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/CMakeFiles/GLPIFrameworkIntro.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/CMakeFiles/ZERO_CHECK.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-build/CMakeFiles/libglew_static.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-build/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glew-build/CMakeFiles/ALL_BUILD.dir

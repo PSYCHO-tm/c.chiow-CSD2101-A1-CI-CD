@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\3e02902129574cd7013d7eb973a9d611\glew-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\107a9b689d2078633465243acc8fdc4c\glew-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\5081753cadbc75028a65527d85564993\glew-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glew-subbuild\CMakeFiles\glew-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7F0C2D32-16D2-3BA0-939B-8D2C18C0EFC4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

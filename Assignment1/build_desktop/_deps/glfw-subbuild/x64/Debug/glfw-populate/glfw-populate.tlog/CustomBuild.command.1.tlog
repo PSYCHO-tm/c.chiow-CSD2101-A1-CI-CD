@@ -1,0 +1,150 @@
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\83DD41A30507CB2F16B2E933ED089E6B\GLFW-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\7EC288D1CE87623D31278218552D6373\GLFW-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/Debug/glfw-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKEFILES\92C70335B945B5098ECCB686FFE39146\GLFW-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\Y1T3\CSD2101\CSD2101-OPENGL-DEV\ANDROIDQUIZ1\ANDROIDPROGRAMMINGQUIZ-CROSSPLATFORMCI\BUILD_DESKTOP\_DEPS\GLFW-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild -BC:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild --check-stamp-file C:/Users/user/Desktop/Y1T3/CSD2101/csd2101-opengl-dev/androidquiz1/AndroidProgrammingQuiz-CrossPlatformCI/build_desktop/_deps/glfw-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

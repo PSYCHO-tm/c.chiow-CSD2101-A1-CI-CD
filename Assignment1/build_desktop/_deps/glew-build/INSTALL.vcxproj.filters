@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\Y1T3\CSD2101\csd2101-opengl-dev\androidquiz1\AndroidProgrammingQuiz-CrossPlatformCI\build_desktop\CMakeFiles\665311138d7efa2fbd229b431ecb7cad\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8349E41-8076-39AA-8B20-BA43EE39C851}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
