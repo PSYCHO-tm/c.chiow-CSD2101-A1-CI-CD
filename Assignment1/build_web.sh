@@ -23,6 +23,8 @@ mkdir -p web
 emcc -std=c++17 \
     Scene/main.cpp \
     Scene/Triangle.cpp \
+    Scene/Square.cpp \
+    Scene/Renderer.cpp \
     -IScene \
     -DUSE_GLFW \
     -s USE_GLFW=3 \
@@ -31,7 +33,6 @@ emcc -std=c++17 \
     -s WASM=1 \
     -s ALLOW_MEMORY_GROWTH=1 \
     -o web/index.html
-
 # --- SDL2 backend (opt-in) --------------------------------------------------
 # To use SDL2 instead, comment out the GLFW block above and uncomment below:
 # emcc -std=c++17 \
