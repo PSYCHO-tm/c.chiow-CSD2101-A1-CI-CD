@@ -1,0 +1,53 @@
+/* BLUEPRINT-CSS-START */
+/* 🎨 Auto-generado Smart Layout: 7/3/2026, 5:56:38 PM */
+
+:root {
+    --primary: #2563eb;
+    --secondary: #1d4ed8;
+    --accent: #60a5fa;
+    --bg: #f0f9ff;
+    --text: #0f172a;
+    --glass: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.3);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Outfit', 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(40px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+/* Estilo para h1: heading_1 */
+
+
+/* BLUEPRINT-CSS-END */
