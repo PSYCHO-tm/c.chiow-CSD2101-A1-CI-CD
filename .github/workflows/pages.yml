@@ -63,19 +63,7 @@ jobs:
             <h2>Chapter 2 — Primitives</h2>
             <p>OpenGL primitives: point, line, and triangle with their variations.</p>
             <p><a href="Chapter2/2-OpenGLES3_Primitives-Modern/">Launch the demo</a></p>
-      - name: Generate index.html
-        run: |
-          cat > site/index.html << 'HTML'
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="UTF-8">
-            <title>OpenGL ES 3.0 Modern — WebGL Demo</title>
-          </head>
-          <body>
-            <h1>OpenGL ES 3.0 Modern</h1>
-            <p>An interactive WebGL demo that runs directly in your browser. No installation needed.</p>
-
+            
             <h2>Chapter 2 — Primitives</h2>
             <p>OpenGL primitives: point, line, and triangle with their variations.</p>
             <p><a href="Chapter2/2-OpenGLES3_Primitives-Modern/">Launch the demo</a></p>
