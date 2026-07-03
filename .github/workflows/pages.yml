@@ -38,6 +38,14 @@ jobs:
           sed 's/-s USE_WEBGL2=1 \\/-s USE_WEBGL2=1 \\\n    -s MIN_WEBGL_VERSION=2 \\/' build_web.sh | bash
           mkdir -p ../../site/Chapter2/2-OpenGLES3_Primitives-Modern
           cp -r web/. ../../site/Chapter2/2-OpenGLES3_Primitives-Modern/
+          
+      - name: Build Assignment1
+        continue-on-error: true
+        working-directory: Assignment1
+        run: |
+          bash build_web.sh
+          mkdir -p ../site/Assignment1
+          cp -r web/. ../site/Assignment1/
 
       - name: Generate index.html
         run: |
@@ -55,6 +63,25 @@ jobs:
             <h2>Chapter 2 — Primitives</h2>
             <p>OpenGL primitives: point, line, and triangle with their variations.</p>
             <p><a href="Chapter2/2-OpenGLES3_Primitives-Modern/">Launch the demo</a></p>
+      - name: Generate index.html
+        run: |
+          cat > site/index.html << 'HTML'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <title>OpenGL ES 3.0 Modern — WebGL Demo</title>
+          </head>
+          <body>
+            <h1>OpenGL ES 3.0 Modern</h1>
+            <p>An interactive WebGL demo that runs directly in your browser. No installation needed.</p>
+
+            <h2>Chapter 2 — Primitives</h2>
+            <p>OpenGL primitives: point, line, and triangle with their variations.</p>
+            <p><a href="Chapter2/2-OpenGLES3_Primitives-Modern/">Launch the demo</a></p>
+
+            <h2>Assignment 1</h2>
+            <p><a href="Assignment1/">Launch Assignment 1</a></p>
           </body>
           </html>
           HTML
