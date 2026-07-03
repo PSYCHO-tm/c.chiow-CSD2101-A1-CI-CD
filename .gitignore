@@ -1,7 +1,11 @@
+lib/
 build/
-   build_ci/
-   .vs/
-   *.ipch
-   *.obj
-   *.pdb
-   out/
+build_ci/
+.vs/
+*.ipch
+*.obj
+*.pdb
+out/
+sample+a1/
+sample+a1.zip
+test-submissions/
